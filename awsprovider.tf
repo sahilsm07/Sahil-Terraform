@@ -1,8 +1,8 @@
 //AWS Provider
 # provider "aws" {
 #   region     = "ap-south-1"    //region
-#   access_key = "AKIASR2NXNYUUYX4PBO4"   //private Key 
-#   secret_key = "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"  
+#   access_key = ""   //private Key 
+#   secret_key = ""  
 # }
 
 
